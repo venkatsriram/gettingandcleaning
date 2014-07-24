@@ -1,5 +1,5 @@
 ### Human Activity Recognition using Smartphones Data Analysis
-The **gettingandcleaning** repository contains the below files exepcted by the project.
+The **gettingandcleaning** repository contains the below files expected by the project.
 
 File Name|Description
 ---------|-----------
@@ -9,7 +9,8 @@ codebook.md|Contains description of codes in the tidy data set
 final_tidy_data.txt|Tidy data set produced by running run_analysis()
 final_labeled_data.txt|Text file produced before the last step of producing tidy data
 
-The repository also contains the data files that was supplied for the project:
+The repository also contains the below data files that was supplied for the project:
+
 Data File|Description
 ---------|-----------
 features_info.txt|Shows information about the variables used on the feature vector
