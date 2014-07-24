@@ -23,7 +23,7 @@ X_test.txt| Test set
 y_test.txt| Test labels
 subject_test.txt| Each row identifies the subject who performed the test activity for each window sample
 
-### run_analysis.R
+### Explanation of run_analysis.R
 
 The function `run_analysis` accepts the working directory `workingdir` parameter as an input. The parameter has the current directory as the default value.
 
