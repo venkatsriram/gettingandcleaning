@@ -1,15 +1,15 @@
 ## The Code book for the tidy data set `final_tidy_data.txt` obtained from run_analysis() 
 
 #### Activity Names
-**WALKING**
-**WALKING_UPSTAIRS**
-**WALKING_DOWNSTAIRS**
-**SITTING**
-**STANDING**
-**LAYING**
+* **WALKING**
+* **WALKING_UPSTAIRS**
+* **WALKING_DOWNSTAIRS**
+* **SITTING**
+* **STANDING**
+* **LAYING**
 
 #### Subject IDs
-1 to 30
+* 1 to 30
 
 #### Variable Names
 
