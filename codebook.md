@@ -13,7 +13,7 @@
 
 #### Variable Names (Column names in tidy data set
 
-**Column Name **|**Description**
+Column Name |Description
 ----------------|---------------
 **tBodyAcc-mean()-X**|Mean of time domain body acceleration axial signal in X direction
 **tBodyAcc-mean()-Y**|Mean of time domain body acceleration axial signal in Y direction
