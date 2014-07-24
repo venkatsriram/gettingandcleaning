@@ -21,7 +21,7 @@ y_train.txt| Training labels
 subject_train.txt| Each row identifies the subject who performed the train activity for each window sample
 X_test.txt| Test set
 y_test.txt| Test labels
-subject_train.txt| Each row identifies the subject who performed the test activity for each window sample
+subject_test.txt| Each row identifies the subject who performed the test activity for each window sample
 
 ### run_analysis.R
 
