@@ -1,5 +1,5 @@
 ### Human Activity Recognition using Smartphones Data Analysis
-The **gettingandcleaning** repository contains the below files expected by the project.
+The **gettingandcleaning** repository contains the below files expected by the project:
 
 File Name|Description
 ---------|-----------
